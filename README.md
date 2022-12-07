@@ -23,3 +23,19 @@ Aplicativo desenvolvido para a disciplina de Programação para Dispositivos Mó
 - firebase_core: ^2.3.0
 - firebase_auth: ^4.1.5
 - speech_to_text: ^6.1.1
+
+**Como executar?**<br>
+No terminal, clone o projeto:
+```console
+git clone https://github.com/mlucianaap/alfabetizando-pdm.git
+```
+
+Instale as dependências do projeto:
+```console
+flutter pub get
+```
+
+Escolha um emulador e execute o comando:
+```console
+flutter run
+```
