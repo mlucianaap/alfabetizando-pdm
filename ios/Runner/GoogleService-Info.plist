@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>415759426864-f7du59lfi0vgpu6j6v3r8mgq0rod7bq9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.415759426864-f7du59lfi0vgpu6j6v3r8mgq0rod7bq9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3nQDh9lpv8gdOtyepb9YSVerx1TvHKEE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>415759426864</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.alfabetizando</string>
+	<key>PROJECT_ID</key>
+	<string>alfabetizando-8e771</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alfabetizando-8e771.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:415759426864:ios:5537dfe0fda2324f1b54f5</string>
+	<key>DATABASE_URL</key>
+	<string>https://alfabetizando-8e771-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
