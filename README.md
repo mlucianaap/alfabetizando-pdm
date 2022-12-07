@@ -1,16 +1,41 @@
 # alfabetizando
 
-A new Flutter project.
+Aplicativo desenvolvido para a disciplina de Programação para Dispositivos Móveis.
 
-## Getting Started
+**Professor:** Manoel Lopes Filho
 
-This project is a starting point for a Flutter application.
+**Equipe:**
+- Luzia Vitoria Lima de Sousa
+- Maria Luciana Almeida Pereira
+- Rui Duarte do Nascimento Junior
+- Thaila Morais Mendes
 
-A few resources to get you started if this is your first Flutter project:
+**Tecnologias:**
+- Flutter/Dart
+- Firebase
+- Cloud Firestore
+- Authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Pacotes:**
+- flutter_tts: ^3.5.3
+- provider: ^6.0.3
+- cloud_firestore: ^4.1.0
+- firebase_core: ^2.3.0
+- firebase_auth: ^4.1.5
+- speech_to_text: ^6.1.1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Como executar?**<br>
+No terminal, clone o projeto:
+```console
+git clone https://github.com/mlucianaap/alfabetizando-pdm.git
+```
+
+Instale as dependências do projeto:
+```console
+flutter pub get
+```
+
+Escolha um emulador e execute o comando:
+```console
+flutter run
+```
