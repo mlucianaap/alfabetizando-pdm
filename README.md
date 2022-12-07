@@ -1,16 +1,12 @@
 # alfabetizando
 
-A new Flutter project.
+Aplicativo desenvolvido para a disciplina de Programação para Dispositivos Móveis.
 
-## Getting Started
+**Professor:** Manoel Lopes Filho
 
-This project is a starting point for a Flutter application.
+**Equipe:**
+- Luzia Vitoria Lima de Sousa
+- Maria Luciana Almeida Pereira
+- Rui Duarte do Nascimento Junior
+- Thaila Morais Mendes
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
