@@ -87,8 +87,8 @@ class AlfabetizandoServices with ChangeNotifier {
     notifyListeners();
   }
 
-  Future<void> removeAlfabetizando() async {
-    db.doc(_userId).delete().then((value) async {
+  Future<void> removeAlfabetizando(String id) async {
+    db.doc(id).delete().then((value) async {
       await auth.currentUser?.delete();
     });
     notifyListeners();

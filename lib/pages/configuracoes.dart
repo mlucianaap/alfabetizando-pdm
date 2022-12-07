@@ -118,7 +118,7 @@ class _ConfiguracoesPageState extends State<ConfiguracoesPage> {
                 await Provider.of<AlfabetizandoServices>(
                   context,
                   listen: false,
-                ).removeAlfabetizando().then((value) {
+                ).removeAlfabetizando(id).then((value) {
                   Navigator.of(context).pushReplacementNamed(
                     AppRoutes.login,
                   );
